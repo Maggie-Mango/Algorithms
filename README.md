@@ -1,35 +1,11 @@
-# Title
-
-### Snappy one-linder
-
-#### By Maggie Saldivia **{Maggie-Mango}**
-
-## Technologies Used
-* HTML
-* CSS
-* Bootstrap
-* JQuery
-* JavaScript
+# Algorithms Practice
 
 
 ## Description
+Practice problems to improve algorithmic things
 
-text
 
-## Setup/Installation Requirements
 
-* Clone this repository to your desktop.
-* Navigate to the top level of the directory.
-* Open {folder-name}/index.html in your browser.
-
-## Link
-
-https://maggie-mango.github.io/{repo-name}
-
-## Known Bugs
-
-* 
-* 
 
 ## License
 
